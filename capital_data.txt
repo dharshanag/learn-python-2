@@ -1,0 +1,18 @@
+Afghanistan/Kabul
+Algeria/Algiers
+Australia/Canberra
+Bangladesh/Dhaka
+Barbados/Bridgetown
+Belarus/Minsk
+Belgium/Brussels
+Canada/Ottawa
+China/Beijing
+Costa Rica/San Jose
+Croatia/Zagreb
+France/Paris
+Denmark/Copenhagen
+Egypt/Cairo
+India/New Dehli
+Germany/Berlin
+Poland/Warsaw
+Turkey/Ankara
